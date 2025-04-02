@@ -23,7 +23,7 @@ Welcome to the **JavaScript Programs Collection**! 📜 This repository contains
 
 Each file is named based on the problem statement it solves. Example:
 
--   📄 **js1-write-a-program-to-reverse-a-number.js** ➝ Reverses a number.
+-   📄 **js1-write-a-program-to-reverse-a-string.js** ➝ Reverses a string.
 -   📄 **js2-write-a-program-to-compare-two-strings-or-arrays.js** ➝ Compares two strings or arrays.
 -   📄 **js3-write-a-program-to-check-a-string-is-palindrome-or-not.js** ➝ Checks if a string is a palindrome.
 
