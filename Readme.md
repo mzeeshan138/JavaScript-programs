@@ -26,6 +26,7 @@ Each file is named based on the problem statement it solves. Example:
 -   📄 **js1-write-a-program-to-reverse-a-string.js** ➝ Reverses a string.
 -   📄 **js2-write-a-program-to-compare-two-strings-or-arrays.js** ➝ Compares two strings or arrays.
 -   📄 **js3-write-a-program-to-check-a-string-is-palindrome-or-not.js** ➝ Checks if a string is a palindrome.
+-   📄 **js4-write-a-program-to-calculate-the-sum-of-the-digits-of-a-number.js** ➝ Calculate the sum of digits of Number.
 
 ## 🛠️ Technologies Used
 
