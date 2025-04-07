@@ -29,6 +29,7 @@ Each file is named based on the problem statement it solves. Example:
 -   📄 **js4-write-a-program-to-calculate-the-sum-of-the-digits-of-a-number.js** ➝ Calculate the sum of digits of Number.
 -   📄 **js5-write-a-program-to-reverse-a-number.js** ➝ Give the reverse of Number.
 -   📄 **js6-write-a-program-to-count-the-digits-in-a-number.js** ➝ Calculate the digits in a Number
+-   📄 **js7-write-a-program-to-find-the-largest-digit-in-a-number.js** ➝ Find the Largest digit in a Number
 
 ## 🛠️ Technologies Used
 
