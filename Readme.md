@@ -33,7 +33,7 @@ Each file is named based on the problem statement it solves. Example:
 - 📄 **js8-write-a-program-to-find-the-smallest-digit-in-a-number.js** ➝ Find the smallest digit in a Number
 - 📄 **js9-write-a-program-to-check-given-year-is-a-leap-year-or-not.js** ➝ Check Given Year is a Leap Year
 - 📄 **js10-write-a-program-to-check-whether-a-number-is-even-or-odd.js** ➝ Check the given number is Even or Odd
-- 📄 **.js** ➝ Check the given number is Prime
+- 📄 **js11-write-a-program-to-check-whether-a-number-is-prime-number-or-not.js** ➝ Check the given number is Prime
 
 ## 🛠️ Technologies Used
 
