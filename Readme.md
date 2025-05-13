@@ -34,6 +34,7 @@ Each file is named based on the problem statement it solves. Example:
 - 📄 **js9-write-a-program-to-check-given-year-is-a-leap-year-or-not.js** ➝ Check Given Year is a Leap Year
 - 📄 **js10-write-a-program-to-check-whether-a-number-is-even-or-odd.js** ➝ Check the given number is Even or Odd
 - 📄 **js11-write-a-program-to-check-whether-a-number-is-prime-number-or-not.js** ➝ Check the given number is Prime
+- 📄 **js12-leetcode-9-palindrome-number.js** ➝ LeetCode 9- check palindrome number
 
 ## 🛠️ Technologies Used
 
