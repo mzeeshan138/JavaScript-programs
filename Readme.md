@@ -36,8 +36,8 @@ Each file is named based on the problem statement it solves. Example:
 - 📄 **js9-write-a-program-to-check-given-year-is-a-leap-year-or-not.js** ➝ Check Given Year is a Leap Year
 - 📄 **js10-write-a-program-to-check-whether-a-number-is-even-or-odd.js** ➝ Check the given number is Even or Odd
 - 📄 **js11-write-a-program-to-check-whether-a-number-is-prime-number-or-not.js** ➝ Check the given number is Prime
-- 📄 **js13-leetcose-1295-find-numbers-with-even-number-of-digits-a.js** ➝ 1295. Find Numbers with Even Number of Digits using string
-- 📄 **js14-leetcose-1295-find-numbers-with-even-number-of-digits-b** ➝ 1295. Find Numbers with Even Number of Digits using Pure arithmetic digit count
+- 📄 **js13-leetcode-1295-find-numbers-with-even-number-of-digits-a.js** ➝ 1295. Find Numbers with Even Number of Digits using string
+- 📄 **js14-leetcode-1295-find-numbers-with-even-number-of-digits-b** ➝ 1295. Find Numbers with Even Number of Digits using Pure arithmetic digit count
 
 ---
 
