@@ -25,22 +25,24 @@ Welcome to the **JavaScript Programs Collection**! 📜 This repository contains
 
 Here’s a list of all programs included in this repository:
 
-| #   | Programs                                                             | Link                                                                                  |
-| --- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 01  | Reverses a String.                                                   | [View Code](js1-write-a-program-to-reverse-a-string.js)                               |
-| 02  | Compares Two Strings or Arrays.                                      | [View Code](js2-write-a-program-to-compare-two-strings-or-arrays.js)                  |
-| 03  | Checks if a String is a Palindrome.                                  | [View Code](js3-write-a-program-to-check-a-string-is-palindrome-or-not.js)            |
-| 04  | Calculates the Sum of Digits of a Number.                            | [View Code](js4-write-a-program-to-calculate-the-sum-of-the-digits-of-a-number.js)    |
-| 05  | Reverses a Number.                                                   | [View Code](js5-write-a-program-to-reverse-a-number.js)                               |
-| 06  | Counts the Digits in a Number.                                       | [View Code](js6-write-a-program-to-count-the-digits-in-a-number.js)                   |
-| 07  | Finds the Largest Digit in a Number.                                 | [View Code](js7-write-a-program-to-find-the-largest-digit-in-a-number.js)             |
-| 08  | Finds the Smallest Digit in a Number.                                | [View Code](js8-write-a-program-to-find-the-smallest-digit-in-a-number.js)            |
-| 09  | Checks if a Given Year is a Leap Year.                               | [View Code](js9-write-a-program-to-check-given-year-is-a-leap-year-or-not.js)         |
-| 10  | Checks whether a Number is Even or Odd.                              | [View Code](js10-write-a-program-to-check-whether-a-number-is-even-or-odd.js)         |
-| 11  | Checks whether a Number is Prime.                                    | [View Code](js11-write-a-program-to-check-whether-a-number-is-prime-number-or-not.js) |
-| 12  | LeetCode 9. Palindrome Number                                        | [View Code](js12-leetcode-9-palindrome-number.js)                                     |
-| 13  | LeetCode 1295: Find Numbers with Even Number of Digits (string).     | [View Code](js13-leetcode-1295-find-numbers-with-even-number-of-digits-a.js)          |
-| 14  | LeetCode 1295: Find Numbers with Even Number of Digits (arithmetic). | [View Code](js14-leetcode-1295-find-numbers-with-even-number-of-digits-b.js)          |
+| #   | Programs                                                                   | Link                                                                                  |
+| --- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 01  | Reverses a String.                                                         | [View Code](js1-write-a-program-to-reverse-a-string.js)                               |
+| 02  | Compares Two Strings or Arrays.                                            | [View Code](js2-write-a-program-to-compare-two-strings-or-arrays.js)                  |
+| 03  | Checks if a String is a Palindrome.                                        | [View Code](js3-write-a-program-to-check-a-string-is-palindrome-or-not.js)            |
+| 04  | Calculates the Sum of Digits of a Number.                                  | [View Code](js4-write-a-program-to-calculate-the-sum-of-the-digits-of-a-number.js)    |
+| 05  | Reverses a Number.                                                         | [View Code](js5-write-a-program-to-reverse-a-number.js)                               |
+| 06  | Counts the Digits in a Number.                                             | [View Code](js6-write-a-program-to-count-the-digits-in-a-number.js)                   |
+| 07  | Finds the Largest Digit in a Number.                                       | [View Code](js7-write-a-program-to-find-the-largest-digit-in-a-number.js)             |
+| 08  | Finds the Smallest Digit in a Number.                                      | [View Code](js8-write-a-program-to-find-the-smallest-digit-in-a-number.js)            |
+| 09  | Checks if a Given Year is a Leap Year.                                     | [View Code](js9-write-a-program-to-check-given-year-is-a-leap-year-or-not.js)         |
+| 10  | Checks whether a Number is Even or Odd.                                    | [View Code](js10-write-a-program-to-check-whether-a-number-is-even-or-odd.js)         |
+| 11  | Checks whether a Number is Prime.                                          | [View Code](js11-write-a-program-to-check-whether-a-number-is-prime-number-or-not.js) |
+| 12  | LeetCode 9. Palindrome Number                                              | [View Code](js12-leetcode-9-palindrome-number.js)                                     |
+| 13  | LeetCode 1295: Find Numbers with Even Number of Digits (String Method).    | [View Code](js13-leetcode-1295-find-numbers-with-even-number-of-digits-a.js)          |
+| 14  | LeetCode 1295: Find Numbers with Even Number of Digits (Arithmetic Logic). | [View Code](js14-leetcode-1295-find-numbers-with-even-number-of-digits-b.js)          |
+| 15  | LeetCode 1: Two Sum Not Optimized                                          | [View Code](js15-leetcode-1-two-sum.js)                                               |
+| 16  | LeetCode 1: Two Sum Optimized Solution                                     | [View Code](js16-leetcode-1-two-sum-optimized.js)                                     |
 
 ---
 
