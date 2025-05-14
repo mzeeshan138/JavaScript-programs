@@ -7,6 +7,8 @@ Welcome to the **JavaScript Programs Collection**! 📜 This repository contains
 🔗 **Portfolio:** [ZeePortfolio](https://mzeeshan138.github.io/ZeePortfolio/)  
 🐙 **GitHub:** [mzeeshan138](https://github.com/mzeeshan138)
 
+---
+
 ## 📌 How to Use
 
 1. Clone this repository:
@@ -54,6 +56,8 @@ Here’s a list of all programs included in this repository:
 - **Node.js (Optional)** – Running scripts outside the browser
 - **Git & GitHub** – Version control and collaboration
 
+---
+
 ## 🌟 Features
 
 ✅ **Well-structured JavaScript programs** 📜  
@@ -62,13 +66,7 @@ Here’s a list of all programs included in this repository:
 ✅ **A growing collection of useful programs** 📈  
 ✅ **Optimized code with best practices** 🏆
 
-## 🤝 Contributing
-
-Want to add more JavaScript programs? Feel free to fork and contribute! 🚀
-
-1. Fork the repository.
-2. Add your JavaScript program.
-3. Submit a pull request. 🎉
+---
 
 ## 📬 Contact
 
