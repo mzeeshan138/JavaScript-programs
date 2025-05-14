@@ -5,7 +5,10 @@ Welcome to the **JavaScript Programs Collection**! 📜 This repository contains
 ## 👨‍💻 Author: Muhammad Zeeshan
 
 🔗 **Portfolio:** [ZeePortfolio](https://mzeeshan138.github.io/ZeePortfolio/)  
-🐙 **GitHub:** [mzeeshan138](https://github.com/mzeeshan138)
+🐙 **GitHub:** [mzeeshan138](https://github.com/mzeeshan138)  
+📧 **Email:** muhammadzeeshan786138@gmail.com  
+🔗 **LinkedIn:** [Muhammad Zeeshan](https://www.linkedin.com/in/muhammad-zeeshan-087584306/)  
+🔗 **LeetCode Profile:** [Zeeshan's LeetCode Profile](https://leetcode.com/u/zeeshan106/)
 
 ---
 
@@ -68,11 +71,13 @@ Here’s a list of all programs included in this repository:
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me
 
-📧 **Email:** muhammadzeeshan588685@gmail.com  
+🔗 **Portfolio:** [ZeePortfolio](https://mzeeshan138.github.io/ZeePortfolio/)  
+🐙 **GitHub:** [mzeeshan138](https://github.com/mzeeshan138)  
+📧 **Email:** muhammadzeeshan786138@gmail.com  
 🔗 **LinkedIn:** [Muhammad Zeeshan](https://www.linkedin.com/in/muhammad-zeeshan-087584306/)  
-🐙 **GitHub:** [mzeeshan138](https://github.com/mzeeshan138)
+🔗 **LeetCode Profile:** [Zeeshan's LeetCode Profile](https://leetcode.com/u/zeeshan106/)
 
 ---
 
