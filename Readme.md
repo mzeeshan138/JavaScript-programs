@@ -48,6 +48,7 @@ Here’s a list of all programs included in this repository:
 | 14  | LeetCode 1295: Find Numbers with Even Number of Digits (Arithmetic Logic). | [View Code](js14-leetcode-1295-find-numbers-with-even-number-of-digits-b.js)          |
 | 15  | LeetCode 1: Two Sum Not Optimized                                          | [View Code](js15-leetcode-1-two-sum.js)                                               |
 | 16  | LeetCode 1: Two Sum Optimized Solution                                     | [View Code](js16-leetcode-1-two-sum-optimized.js)                                     |
+| 17  | LeetCode 2: Add Two Numbers                                                | [View Code](js17-leetcode-2-add-two-numbers.js)                                       |
 
 ---
 
