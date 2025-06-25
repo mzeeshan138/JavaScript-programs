@@ -49,6 +49,7 @@ Here’s a list of all programs included in this repository:
 | 15  | LeetCode 1: Two Sum Not Optimized                                          | [View Code](js15-leetcode-1-two-sum.js)                                               |
 | 16  | LeetCode 1: Two Sum Optimized Solution                                     | [View Code](js16-leetcode-1-two-sum-optimized.js)                                     |
 | 17  | LeetCode 2: Add Two Numbers                                                | [View Code](js17-leetcode-2-add-two-numbers.js)                                       |
+| 18  | LeetCode 4: Add Two Numbers                                                | [View Code](js18-leetcode-04-median-of-two-sorted-arrays.js)                          |
 
 ---
 
